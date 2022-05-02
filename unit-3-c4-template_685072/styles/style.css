@@ -1,0 +1,18 @@
+#search_input{
+    width: 80%;
+    height: 25px;
+    margin-top: 25px;
+}
+#navbar{
+    display: flex;
+    gap: 30px;
+}
+#container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+}
+#container img{
+    width: 100px;
+    height: 100px;
+}
